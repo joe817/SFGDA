@@ -1,12 +1,23 @@
-# SFGDA: Source-Free Domain Adaptation in Graph Transfer Learning.
+# SFGDA
+
+This is an official implementation of the **SFGDA: Source-Free Domain Adaptation in Graph Transfer Learning**.
 
 ![Image text](https://github.com/joe817/SFGDA/blob/main/framework.png)
 
+
 ## Datasets
 
+You can find [Twitch](https://snap.stanford.edu/data/twitch-social-networks.html), and [Citation](https://github.com/joe817/SFGDA/tree/main/data) via the links.
 
-## Train Source
+## Quick Strat
+
+**Source Train**
+
+**Target Train**
+
+## Citing
 
 
-## Train Target
+
+
 
