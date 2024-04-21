@@ -11,9 +11,12 @@ You can find [Twitch](https://snap.stanford.edu/data/twitch-social-networks.html
 
 ## Quick Strat
 
-**Source Train**
+**Training on Source and Target**
 
-**Target Train**
+'''
+main.py
+'''
+
 
 ## Citing
 
