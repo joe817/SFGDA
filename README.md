@@ -13,9 +13,9 @@ You can find [Twitch](https://snap.stanford.edu/data/twitch-social-networks.html
 
 **Training on Source and Target**
 
-'''
-main.py
-'''
+```
+python main.py
+```
 
 
 ## Citing
