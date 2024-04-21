@@ -20,6 +20,11 @@ python main.py
 
 ## Citing
 
+## Contact
+Ziyue Qiao: ziyuejoe@gmail.com
+
+Xiaomin Yu: yuxm02@gmail.com
+
 
 
 
