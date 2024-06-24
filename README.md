@@ -1,6 +1,6 @@
 # SFGDA
 
-This is an official implementation of the **SFGDA: Source-Free Domain Adaptation in Graph Transfer Learning**.
+This is an official implementation of the **Adapting Graph Models via Target Integrity Assessment and Source Distribution Hypothesis**.
 
 ![Image text](https://github.com/joe817/SFGDA/blob/main/framework.png)
 
@@ -16,14 +16,6 @@ You can find [Twitch](https://snap.stanford.edu/data/twitch-social-networks.html
 ```
 python main.py
 ```
-
-
-## Citing
-
-## Contact
-Ziyue Qiao: ziyuejoe@gmail.com
-
-Xiaomin Yu: yuxm02@gmail.com
 
 
 
